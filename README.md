@@ -4,7 +4,7 @@
 
   - Test case from : [Progressive Web App Checklist]
   - Real Devices!.
-  - Easely scallable, with Ressource to use as you want.
+  - Easely scallable, with ressources to use as you want.
 
 # Workspace
 
