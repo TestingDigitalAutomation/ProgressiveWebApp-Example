@@ -1,0 +1,99 @@
+Nom du test :	Https
+Sortie du test :	Succès
+StandardOutput de résultat  :	
+----=========---- ONLINE MODE ----=========----
+
+Page : https://app.ft.com/index_page/home
+Original String : https://app.ft.com/index_page/home
+Load time : 499milliseconds
+Server Status Code : OK
+Authority : app.ft.com
+Idn Host : app.ft.com
+Host name Type : Dns
+Scheme : https
+Port : 443
+
+----=========---- ONLINE MODE ----=========----
+
+Page : https://app.ft.com/cms/s/4c78c052-cd12-11e7-b781-794ce08b24dc.html?sectionid=home
+Original String : https://app.ft.com/cms/s/4c78c052-cd12-11e7-b781-794ce08b24dc.html?sectionid=home
+Load time : 1055milliseconds
+Server Status Code : OK
+Authority : app.ft.com
+Idn Host : app.ft.com
+Host name Type : Dns
+Scheme : https
+Port : 443
+
+----=========---- ONLINE MODE ----=========----
+
+Page : https://app.ft.com/content/40446aa4-e4e9-11e7-97e2-916d4fbac0da?sectionid=home
+Original String : https://app.ft.com/cms/s/40446aa4-e4e9-11e7-97e2-916d4fbac0da.html?sectionid=home
+Load time : 631milliseconds
+Server Status Code : OK
+Authority : app.ft.com
+Idn Host : app.ft.com
+Host name Type : Dns
+Scheme : https
+Port : 443
+
+----=========---- ONLINE MODE ----=========----
+
+Page : https://app.ft.com/cms/s/b893d7e0-f012-11e7-b220-857e26d1aca4.html?sectionid=home
+Original String : https://app.ft.com/cms/s/b893d7e0-f012-11e7-b220-857e26d1aca4.html?sectionid=home
+Load time : 709milliseconds
+Server Status Code : OK
+Authority : app.ft.com
+Idn Host : app.ft.com
+Host name Type : Dns
+Scheme : https
+Port : 443
+
+----=========---- OFFLINE MODE ----=========----
+
+Page : https://app.ft.com/index_page/home
+Original String : https://app.ft.com/index_page/home
+Load time : 225milliseconds
+Server Status Code : OK
+Authority : app.ft.com
+Idn Host : app.ft.com
+Host name Type : Dns
+Scheme : https
+Port : 443
+
+----=========---- OFFLINE MODE ----=========----
+
+Page : https://app.ft.com/content/4c78c052-cd12-11e7-b781-794ce08b24dc?sectionid=home
+Original String : https://app.ft.com/cms/s/4c78c052-cd12-11e7-b781-794ce08b24dc.html?sectionid=home
+Load time : 343milliseconds
+Server Status Code : OK
+Authority : app.ft.com
+Idn Host : app.ft.com
+Host name Type : Dns
+Scheme : https
+Port : 443
+
+----=========---- OFFLINE MODE ----=========----
+
+Page : https://app.ft.com/content/40446aa4-e4e9-11e7-97e2-916d4fbac0da?sectionid=home
+Original String : https://app.ft.com/cms/s/40446aa4-e4e9-11e7-97e2-916d4fbac0da.html?sectionid=home
+Load time : 278milliseconds
+Server Status Code : OK
+Authority : app.ft.com
+Idn Host : app.ft.com
+Host name Type : Dns
+Scheme : https
+Port : 443
+
+----=========---- OFFLINE MODE ----=========----
+
+Page : https://app.ft.com/cms/s/b893d7e0-f012-11e7-b220-857e26d1aca4.html?sectionid=home
+Original String : https://app.ft.com/cms/s/b893d7e0-f012-11e7-b220-857e26d1aca4.html?sectionid=home
+Load time : 173milliseconds
+Server Status Code : OK
+Authority : app.ft.com
+Idn Host : app.ft.com
+Host name Type : Dns
+Scheme : https
+Port : 443
+
